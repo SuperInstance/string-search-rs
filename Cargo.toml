@@ -1,0 +1,11 @@
+[package]
+name = "string-search-rs"
+version = "0.1.0"
+edition = "2021"
+authors = ["SuperInstance"]
+description = "Comprehensive string matching algorithms: naive, KMP, Rabin-Karp, Boyer-Moore, Z-algorithm, and suffix array search"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/SuperInstance/string-search-rs"
+keywords = ["string", "search", "pattern-matching", "kmp", "boyer-moore"]
+categories = ["algorithms", "text-processing"]
+readme = "README.md"
